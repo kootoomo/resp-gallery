@@ -1,1 +1,1 @@
-"# resp-gallery" 
+# resp-gallery
